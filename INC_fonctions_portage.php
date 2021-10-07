@@ -56,7 +56,7 @@ else
     function mysql_set_charset($a)
 	{
 		//ici ça ne fonctionne pas, je ne comprend pas, ce n'est pas grave pour cette fonction,
-		//car je le déclare après le musqli.
+		//car je le déclare après le mysqli.
 		//global $mysqli;
 		//return $mysqli->set_charset($a);
 		return true;
