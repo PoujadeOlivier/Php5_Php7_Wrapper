@@ -4,3 +4,5 @@ Portage de certaines fonctions obsolescentes de php5 pour une compatibilité dan
 
 Par exemple, intégration simple au niveau du code de connexion à la base.
 require_once("INC_fonctions_portage.php");
+
+FORK du projet php7-compat que j'ai trouvé plus tard.
