@@ -1,4 +1,11 @@
 <?php
+/*
+ * Bibliothèque de compatibilité descendante pour les fonctions PHP obsolètes
+ *
+ * Les fonctions mysql_* et ereg* ont été supprimées en PHP 7.
+ * De nombreux sites Web hérités contiennent trop de code hérité pour être entièrement réécrit
+ * donc une bibliothèque de compatibilité est requise.
+*/
 /**
  * Backwards compatibility library for obsolete PHP functions
  *
